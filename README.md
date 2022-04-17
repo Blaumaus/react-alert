@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-$ npm install --save react-alert
+$ npm install --save @blaumaus/react-alert
 ```
 
 ### Templates
